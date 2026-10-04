@@ -7,6 +7,7 @@ The **Zomato Restaurants Analysis Dashboard** is an interactive Excel-based data
 The project uses **Microsoft Excel** to perform data cleaning, transformation, analysis, visualization, and dashboard development.
 
 The dashboard provides an easy-to-understand view of restaurant trends and helps identify patterns across **cities, cuisines, ratings, pricing categories, and restaurant services**.
+<img width="1840" height="731" alt="image" src="https://github.com/user-attachments/assets/93253f5d-cb2a-41fe-a80e-33570688dbd7" />
 
 ---
 
